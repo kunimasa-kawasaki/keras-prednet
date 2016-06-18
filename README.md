@@ -7,7 +7,7 @@ train.py:学習用
 imageフォルダ:●が移動するサンプルデータです。  
 
 #注意点
-ConvLSTMは以下のURLのコードを使わせていただいています。  
+ConvLSTM「recurrent_convolutional.py」は以下のURLのコードを使わせていただいています。  
 (https://gist.github.com/henry0312/bc86e166855bc12b18e3bdceb67b3ec1)
 
 PredNetは階層性が特徴ですが、実装は1層のみとなっています。  
